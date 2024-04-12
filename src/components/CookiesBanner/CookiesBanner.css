@@ -1,0 +1,125 @@
+/* .cookie {
+    background: #fff;
+    border: none;
+}
+.cookie h6 {
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.cookie button.btn.btn-dark {
+    padding: 10px 30px 12px 30px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    background: #202c45;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0px 0px #e81c2e;
+    transition: ease-out 0.5s;
+    -webkit-transition: ease-out 0.5s;
+    width: 200px;
+    height: 60px;
+}
+
+
+.new_custom_class .btn {
+    padding: 10px 30px 12px 30px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    background: #E81C2E;
+    border: none;
+    border-radius: 60px;
+    box-shadow: inset 0 0 0 0 #202C45;
+    transition: ease-out 0.5s;
+    -webkit-transition: ease-out 0.5s;
+}
+.cookiesfixed{
+    position: relative;
+    width: 100%;
+    }
+
+    .cookies-modal{
+width: 100%;
+    }
+
+.fade .modal .show {
+    display: block;
+    margin-top: 432px;
+
+}
+
+.modal-dialog {
+    
+    bottom: 0;
+
+    position: absolute;
+    left: 25%;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    bottom: 0;
+    right: 0;
+    margin-right: 0px;
+}
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    background-color: var(--bs-modal-bg);
+    background-clip: padding-box;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    border-radius: var(--bs-modal-border-radius);
+    outline: 0;
+}
+
+.modal-header {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: var(--bs-modal-padding);
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.modal-body p {
+    margin-bottom: 0px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.modal-footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+} */
+
+.CookieConsent{
+
+}
+
+
+
+.rcc-confirm-button {
+    background: rgb(232, 28, 46);
+    border: 0px;
+    border-radius: 0px;
+    box-shadow: none;
+    color: white;
+    cursor: pointer;
+    flex: 0 0 auto;
+    padding: 5px 10px;
+    margin: 15px;
+    font-size: 15px;
+    border-radius: 7px;
+}
